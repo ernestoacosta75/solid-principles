@@ -6,7 +6,7 @@ package com.eara.d;
  * both will depend on abstractions.
  *
  * Here, we're using the dependency injection pattern to facilitate adding the
- * Keyboard dependency into the Windows98Machine class.
+ * Keyboard and Monitor dependencies into the Windows98Machine class.
  */
 public class Windows98Machine {
 
